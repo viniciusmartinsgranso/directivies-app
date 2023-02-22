@@ -1,0 +1,7 @@
+{
+  "name": "directive-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
